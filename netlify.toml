@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://atsu.moe/:splat"
+  to = "https://comick.io/:splat"
   status = 200
   force = true
