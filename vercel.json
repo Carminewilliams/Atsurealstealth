@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://atsu.moe/:path*",
-      "permanent": false
+      "destination": "https://atsu.moe/:path*"
     }
   ]
 }
