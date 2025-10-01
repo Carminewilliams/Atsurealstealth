@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://atsu.moe/:splat"
-  status = 200
-  force = false
