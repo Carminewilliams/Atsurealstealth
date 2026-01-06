@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://mangataro.org/home:splat"
+  to = "https://mangafire.to/home:splat"
   status = 200
   force = true
